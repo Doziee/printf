@@ -46,5 +46,5 @@ int print_digit(va_list valist)
 		return (-1);
 	}
 
-	return (count)
+	return (count);
 }
